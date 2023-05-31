@@ -1,4 +1,4 @@
-<h2>Hiii 👋 ! I'm <a href="https://www.linkedin.com/in/eleana-rinaudo/">Eleana Rinaudo</a></h2>
+<h2>Hiii ! I'm <a href="https://www.linkedin.com/in/eleana-rinaudo/">Eleana Rinaudo</a></h2>
 <p>I'm Jr Data Engineer and Data Science & AI student </strong>. 
 
 <p>
@@ -11,8 +11,7 @@
 <ul>
   <li>👩‍🎤 Pronouns: she/her</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/eleanarinaudo">Github</a>.</li>
-  <li>💬 Python 🐍</strong>.</li>
-  <li>📙 Check out my <a href="https://eleanarinaudo.github.io/img/CV_EleanaRinaudo.pdf">resume</a>.</li>
+  <li>💬 Python & WebScraping 🐍</strong>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">

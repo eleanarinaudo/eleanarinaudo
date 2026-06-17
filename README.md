@@ -27,7 +27,3 @@ I really enjoy the messy data-to-product journey, and I'm still learning a ton a
 - 👩‍🎤 she/her
 - 💬 Happy to chat about web scraping, data pipelines, or anything LLM
 - 🌱 Always learning — feedback and ideas welcome
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eleanarinaudo&show_icons=true&count_private=true&theme=radical" />
-</p>

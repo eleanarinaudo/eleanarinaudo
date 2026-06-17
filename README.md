@@ -22,19 +22,6 @@ I really enjoy the messy data-to-product journey, and I'm still learning a ton a
 - 🧠 **Conversational agents** — playing with LangChain / LangGraph to build assistants with tools.
 - 📊 **Applied ML** — small projects like poster OCR, time-series forecasting, and genre embeddings.
 
-### Tools I reach for
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-Mostly Python, with a side of LLM tooling (MCP, LangChain/LangGraph), AWS, and a bit of React.
-
 ### A few quick facts
 
 - 👩‍🎤 she/her

@@ -13,17 +13,12 @@
 
 I'm a data person from Córdoba, Argentina 🇦🇷, currently working as an AI/ML Engineer at **Fabric Data**. I started out writing web scrapers and ETL pipelines, and over time got to work on ML tooling and, more recently, LLM stuff — building a **Model Context Protocol (MCP)** server that connects assistants like Claude and ChatGPT to our data.
 
-I really enjoy the messy data-to-product journey, and I'm still learning a ton along the way. Also studying Computer Science (UNC) and Data Science & AI on the side 📚.
+I really enjoy the messy data-to-product journey, and I'm still learning a ton along the way. Also studying Computer Science (UNC) and Data Science & AI on the side.
 
 ### A bit of what I've worked on
 
-- 🕸️ **Web scraping & data ingestion** — where it all started for me: building and maintaining a bunch of scrapers (30+ streaming platforms) and keeping the data flowing reliably. Honestly learned a lot from things breaking 😅.
-- 🤖 **LLMs & MCP** — helping build an MCP server so assistants can query our catalog data in plain language. Still a work in progress and there's always more to improve.
-- 🧠 **Conversational agents** — playing with LangChain / LangGraph to build assistants with tools.
-- 📊 **Applied ML** — small projects like poster OCR, time-series forecasting, and genre embeddings.
+- **Web scraping & data ingestion** — where it all started for me: building and maintaining a bunch of scrapers (30+ streaming platforms) and keeping the data flowing reliably. Honestly learned a lot from things breaking.
+- **LLMs & MCP** — helping build an MCP server so assistants can query our catalog data in plain language. Still a work in progress and there's always more to improve.
+- **Conversational agents** — playing with LangChain / LangGraph to build assistants with tools.
+- **Applied ML** — small projects like poster OCR, time-series forecasting, and genre embeddings.
 
-### A few quick facts
-
-- 👩‍🎤 she/her
-- 💬 Happy to chat about web scraping, data pipelines, or anything LLM
-- 🌱 Always learning — feedback and ideas welcome
